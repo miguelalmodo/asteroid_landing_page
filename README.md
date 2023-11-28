@@ -1,1 +1,3 @@
-I'm following free code camps git tutorial!
+I'm following free code camps git tutorial! 
+
+I wonder what I'm going to make for dinner tonight...
